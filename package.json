@@ -1,0 +1,31 @@
+{
+  "name": "white-on-white",
+  "displayName": "White on White",
+  "description": "White on white colour theme!",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White on White",
+        "uiTheme": "vs",
+        "path": "./themes/White on White-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "white",
+    "white-on-white",
+    "pure white",
+    "just white"
+  ],
+  "publisher": "cyrus",
+  "license": "MIT",
+  "repository": "https://github.com/realcyguy/white-on-white"
+}
