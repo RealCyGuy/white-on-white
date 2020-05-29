@@ -1,7 +1,7 @@
 # White on White
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cyrus.white-on-white?style=for-the-badge)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/Cyrus.white-on-white?style=for-the-badge)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cyrus.white-on-white?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Cyrus.white-on-white)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/Cyrus.white-on-white?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Cyrus.white-on-white)
 
 > An amazing colour scheme, focused on "*usefullness*".
 
